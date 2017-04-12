@@ -1,0 +1,12 @@
+[x] Remove weird > card
+[x] Allow only the king to be place on an empty slot
+[x] Remove flickering
+[x] pressing up in a 1 > row will leave selected symbol 
+[x] pressing an empty slot will trigger isSelected boolean
+[x] remove reset and set it to reset when no cards are left
+[x] Update card design
+[x] add win condition
+[x] print controls
+[x] make menu
+[x] fix crashing on exit
+[ ] Increase framerate
